@@ -7,16 +7,24 @@
 
 ### 🏆 Featured Certifications
 
-<p align="center">
-HCCDA – Tech Essential — Huawei, 2026
- <img width="1523" height="340" alt="hccda" src="https://github.com/user-attachments/assets/07558b05-d1a3-4c87-8ec1-26ad73bd079d" />
-  &nbsp;&nbsp;
-Network Architecture — Coursera, 2026
-  <img width="2200" height="340" alt="cousera" src="https://github.com/user-attachments/assets/cc0fa526-f1b8-4cb8-9471-2c6682f8234c" alt="Certificate 2" />
-Rapid Prototype Development (RPD) Challenge 2023 — Multi GNSS Asia, GISTDA & Cabinet Office of Japan | 2023
-  <img width="1080" height="340" alt="gitsda" src="https://github.com/user-attachments/assets/ed2d94ed-be1f-42a3-9f9d-e0666b2220ba" />
-</p>
-
+<table align="center">
+  <tr align="center">
+    <th>HCCDA – Tech Essential<br><sub>Huawei (2026)</sub></th>
+    <th>Network Architecture<br><sub>Coursera (2026)</sub></th>
+    <th>RPD Challenge 2023<br><sub>GISTDA / Cabinet Office of Japan</sub></th>
+  </tr>
+  <tr align="center">
+    <td>
+      <img height="220" alt="hccda" src="https://github.com/user-attachments/assets/07558b05-d1a3-4c87-8ec1-26ad73bd079d" />
+    </td>
+    <td>
+      <img height="220" alt="coursera" src="https://github.com/user-attachments/assets/cc0fa526-f1b8-4cb8-9471-2c6682f8234c" />
+    </td>
+    <td>
+      <img height="220" alt="gistda" src="https://github.com/user-attachments/assets/ed2d94ed-be1f-42a3-9f9d-e0666b2220ba" />
+    </td>
+  </tr>
+</table>
 
 
 
