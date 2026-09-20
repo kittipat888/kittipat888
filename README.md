@@ -1,7 +1,7 @@
 ## Hi there, I'm Ton 👋
 
 🎓 Computer Engineering student at Mae Fah Luang University  
-💡 Passionate about Computer Networks & Infrastructure
+💡 Passionate about Computer Networks Network, Infrastructure and System Engineer.
 
 ---
 
